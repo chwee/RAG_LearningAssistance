@@ -11,7 +11,7 @@ ANY_PY = $(or $(wildcard $(PYTHON)), $(SYS_PY))
 
 default: all
 
-## Default: default: Formats, Builds and Tests
+## Default: default: Install dependencies
 .PHONY: default
 all: install
 
