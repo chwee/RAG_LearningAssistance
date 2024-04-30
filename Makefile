@@ -44,6 +44,7 @@ install: install/node install/python
 .PHONY: install/python
 install/python: venv
 	$(BIN)pip install -r requirements.txt
+	$(BIN)pip install -r requirements-dev.txt
 
 ## Extra: install/node: Install node dependencies
 .PHONY: install/node
