@@ -20,8 +20,7 @@ from llama_index.core.service_context import ServiceContext
 from chainlit.input_widget import Select
 # from chainlit.input_widget import TextInput
 
-# openai.api_key = os.environ.get("OPENAI_API_KEY")
-openai.api_key = ''
+openai.api_key = os.environ["OPENAI_API_KEY"]
 list_topics = ['IT1111', 'IT2222', 'IT3333', 'IT4444']
 try:
     # rebuild storage context
