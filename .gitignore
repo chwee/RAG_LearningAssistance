@@ -1,2 +1,15 @@
-# Environment
-.env*
+# Python stuff
+venv*/
+*.pytest_cache
+__pycache__/
+
+*.py[cod]
+*$py.class
+
+*.ruff_cache
+
+# Build
+dist/
+*.egg-info/
+
+.vscode/
