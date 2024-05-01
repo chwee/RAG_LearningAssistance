@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "npm run dev:py",
-    "dev:py": "python server/src/main.py",
+    "dev:py": "python -m chainlit run server/src/main.py",
     "lint": "python -m ruff check && prettier --cache --check .",
     "lint:fix": "python -m ruff format && prettier --cache --write .",
     "test": "python -m pytest -xsv",
