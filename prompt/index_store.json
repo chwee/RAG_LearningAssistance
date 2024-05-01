@@ -1,1 +1,8 @@
-{"index_store/data": {"d321dc56-4c54-4ea8-98c8-2e955225bd59": {"__type__": "vector_store", "__data__": "{\"index_id\": \"d321dc56-4c54-4ea8-98c8-2e955225bd59\", \"summary\": null, \"nodes_dict\": {\"b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f\": \"b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f\", \"4cc26e60-60f4-4241-ad95-e3f41b7001a0\": \"4cc26e60-60f4-4241-ad95-e3f41b7001a0\", \"8bdcbd8b-9f18-442b-937b-78b74bb6d75d\": \"8bdcbd8b-9f18-442b-937b-78b74bb6d75d\", \"d652640a-9d6a-4127-a3cf-41ec1fc167d1\": \"d652640a-9d6a-4127-a3cf-41ec1fc167d1\", \"ca8dcba8-b59a-4467-b221-5bbd50c35738\": \"ca8dcba8-b59a-4467-b221-5bbd50c35738\", \"def27a04-a433-409b-99bf-da39ec37ed89\": \"def27a04-a433-409b-99bf-da39ec37ed89\", \"f8ae948b-bf9e-4238-8276-be19ac1f11c1\": \"f8ae948b-bf9e-4238-8276-be19ac1f11c1\"}, \"doc_id_dict\": {}, \"embeddings_dict\": {}}"}}}
+{
+  "index_store/data": {
+    "d321dc56-4c54-4ea8-98c8-2e955225bd59": {
+      "__type__": "vector_store",
+      "__data__": "{\"index_id\": \"d321dc56-4c54-4ea8-98c8-2e955225bd59\", \"summary\": null, \"nodes_dict\": {\"b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f\": \"b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f\", \"4cc26e60-60f4-4241-ad95-e3f41b7001a0\": \"4cc26e60-60f4-4241-ad95-e3f41b7001a0\", \"8bdcbd8b-9f18-442b-937b-78b74bb6d75d\": \"8bdcbd8b-9f18-442b-937b-78b74bb6d75d\", \"d652640a-9d6a-4127-a3cf-41ec1fc167d1\": \"d652640a-9d6a-4127-a3cf-41ec1fc167d1\", \"ca8dcba8-b59a-4467-b221-5bbd50c35738\": \"ca8dcba8-b59a-4467-b221-5bbd50c35738\", \"def27a04-a433-409b-99bf-da39ec37ed89\": \"def27a04-a433-409b-99bf-da39ec37ed89\", \"f8ae948b-bf9e-4238-8276-be19ac1f11c1\": \"f8ae948b-bf9e-4238-8276-be19ac1f11c1\"}, \"doc_id_dict\": {}, \"embeddings_dict\": {}}"
+    }
+  }
+}

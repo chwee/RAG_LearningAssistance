@@ -1,1 +1,665 @@
-{"docstore/metadata": {"e246e433-f5b9-4071-8c3d-b7a5f090fb63": {"doc_hash": "ea630d5dc149114d5b80f5b4b74e0b24e3c4f3fc647fa1ed9f4bb07d0cffdf39"}, "95f21103-8f74-42b0-8162-fc194fc5e72e": {"doc_hash": "79889fad87e94cede0b99b8e314b5880bf2c9a6c4931977f2776dea4b51b5339"}, "97243292-26a7-4252-a1d9-a31c8d736a0a": {"doc_hash": "a8e2a74b3680bc507b87250a74636748bc6964beb58734894f27d67a169a5805"}, "f5ad4bde-f1f5-4a74-9163-d8ae44fd4d45": {"doc_hash": "abf214e3433b72b593468337caceef9393c88152c695d5aaafef4e635580aee7"}, "9a945af6-8146-47af-ac0d-4fc065e27816": {"doc_hash": "4ba867f17e94f11b2d03fcfc41394d7b3e930768ce709e5a1c7e2bc30df23a0e"}, "aff8a911-f638-43e8-8a2d-7bf26968d302": {"doc_hash": "71ebe2168320369483c5d8aee5fced1b47b9bf1e5b8aa2d8d733c808f0e3f7fa"}, "c07fea6a-c654-4c13-a196-44703dc8abeb": {"doc_hash": "f015161d11ed4cc64ee8506322b0b17c3cd5eb3aba940f5d712473974ef711cd"}, "b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f": {"doc_hash": "4cf576bcd4cdd056931ad473c7fb68725223eddbf1642b2b529259d98a822943", "ref_doc_id": "e246e433-f5b9-4071-8c3d-b7a5f090fb63"}, "4cc26e60-60f4-4241-ad95-e3f41b7001a0": {"doc_hash": "f661a3a2643b7f2cbf27461f2ca5247e8511f65e1c3f8e6cc12795891c4eab6f", "ref_doc_id": "95f21103-8f74-42b0-8162-fc194fc5e72e"}, "8bdcbd8b-9f18-442b-937b-78b74bb6d75d": {"doc_hash": "f868878c02ad80a53f3e93202204670bbc97ec4787f3b853b9119208126198d4", "ref_doc_id": "97243292-26a7-4252-a1d9-a31c8d736a0a"}, "d652640a-9d6a-4127-a3cf-41ec1fc167d1": {"doc_hash": "ce69e853f7bab089774cc1372402ba7a640ac50b2a4a7d35f67aaef63122db33", "ref_doc_id": "f5ad4bde-f1f5-4a74-9163-d8ae44fd4d45"}, "ca8dcba8-b59a-4467-b221-5bbd50c35738": {"doc_hash": "fa3bce6e98867156be0783fdd5618d1c67a531850299945ce0c8b8de249f7585", "ref_doc_id": "9a945af6-8146-47af-ac0d-4fc065e27816"}, "def27a04-a433-409b-99bf-da39ec37ed89": {"doc_hash": "05fca0b39ec7b25e65eb9f5d80547212f5cfc88213659ab35ba1fef028008f06", "ref_doc_id": "aff8a911-f638-43e8-8a2d-7bf26968d302"}, "f8ae948b-bf9e-4238-8276-be19ac1f11c1": {"doc_hash": "3dfcbd000fd1785932c603933f144ec2d5aa3baf98d72745675e83845e4a613c", "ref_doc_id": "c07fea6a-c654-4c13-a196-44703dc8abeb"}}, "docstore/data": {"b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f": {"__data__": {"id_": "b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f", "embedding": null, "metadata": {"page_label": "1", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "excluded_embed_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "excluded_llm_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "relationships": {"1": {"node_id": "e246e433-f5b9-4071-8c3d-b7a5f090fb63", "node_type": "4", "metadata": {"page_label": "1", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "ea630d5dc149114d5b80f5b4b74e0b24e3c4f3fc647fa1ed9f4bb07d0cffdf39", "class_name": "RelatedNodeInfo"}, "3": {"node_id": "4cc26e60-60f4-4241-ad95-e3f41b7001a0", "node_type": "1", "metadata": {}, "hash": "336e0d578a3e60f78c038f10a85806123a9f13a03d347828fe5dcd2ef2e67765", "class_name": "RelatedNodeInfo"}}, "text": "Basic Interview Questions for Prompt Engineers  \nThe first set of most popular prompt engineering interview questions focuses on the \nquestions about prompt engineering fundamentals. The following questions would help the \ninterviewers check your knowledge of the basic concepts of prompt engineering.  \n \n1. What is prompt engineering?  \nPrompt engineering refers to the process of creating the right prompts that could instruct \ngenerative AI tools to generate the right responses. It focuses on creating the right prompts \nor instructions that can help the AI tool understand the user query. Eff ective, prompt \nengineering helps the Large Language Model in providing the most relevant answer to your \nqueries. You can also define prompt engineering as the process of designing and refining \nprompts to improve the performance of AI models in different t asks, such as text \ngeneration, translation, and image generation.  \n \n2. What are the responsibilities of a prompt engineer?  \nThe list of entries among responses to \u201cWhat are the questions for a prompt interview?\u201d \nwould also focus on the responsibilities of the prompt engineer. Prompt engineers serve a \ncrucial role in development and optimization of AI -generated text prompts. In addition, \nprompt engineers ensure that the prompts offer relevance and accuracy for different use \ncases. On top of it, prompt engineers must also fine -tune the prompts to ensure the best \nresults. The role of prompt engineers also focuses on improving user experience with AI \ntools by creating simple and contextually relevant prompts.  \n \nDive into the world of prompt engineering and become a master of generative AI \napplications with the Prompt Engineer Career Path.  \n \n3. What are the important skills required for prompt engineers?  \nThe outline of top prompt engineering interview questions also focuses on the skills \nrequired for prompt engineers. Prompt engineers should have problem -solving, analytical, \nand communication skills. You don\u2019t need a technical background to become a prompt  \nengineer.", "start_char_idx": 0, "end_char_idx": 2061, "text_template": "{metadata_str}\n\n{content}", "metadata_template": "{key}: {value}", "metadata_seperator": "\n", "class_name": "TextNode"}, "__type__": "1"}, "4cc26e60-60f4-4241-ad95-e3f41b7001a0": {"__data__": {"id_": "4cc26e60-60f4-4241-ad95-e3f41b7001a0", "embedding": null, "metadata": {"page_label": "2", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "excluded_embed_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "excluded_llm_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "relationships": {"1": {"node_id": "95f21103-8f74-42b0-8162-fc194fc5e72e", "node_type": "4", "metadata": {"page_label": "2", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "79889fad87e94cede0b99b8e314b5880bf2c9a6c4931977f2776dea4b51b5339", "class_name": "RelatedNodeInfo"}, "2": {"node_id": "b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f", "node_type": "1", "metadata": {"page_label": "1", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "4cf576bcd4cdd056931ad473c7fb68725223eddbf1642b2b529259d98a822943", "class_name": "RelatedNodeInfo"}, "3": {"node_id": "8bdcbd8b-9f18-442b-937b-78b74bb6d75d", "node_type": "1", "metadata": {}, "hash": "5089f1dcde142b562f88b655edbde1ea4698e65253db6a7ab35548bc99b6266c", "class_name": "RelatedNodeInfo"}}, "text": "Communication skills help in working in collaboration with team members and clients. \nAnalytical skills can help in using data analysis for informed decision -making to facilitate \nsystem enhancements. In addition, the problem -solving skills of a prompt engin eer help \nthem in addressing problems due to system glitches.  \n \n4. What are Generative AI models?  \nAnother important addition to basic prompt engineering interview questions would focus \non definition of generative AI models. Generative AI models are AI algorithms with the \nability to generate new data based on their training data. With a specific dataset , generative \nAI models could learn and develop new samples with similar traits as the original data. \nGenerative AI models utilize complex mathematical algorithms alongside deep learning \ntechniques for learning the underlying features and patterns in traini ng data.  \n \n5. What are the common tasks you can achieve with generative AI models?  \nThe primary advantage of generative AI models is the ability to understand the patterns in \ndata. In addition, generative AI models have the capability for understanding the \ncomplexity and variations in real -world data. Therefore, the generative AI models c ould \nwork as effective tools in use cases such as text and speech synthesis, image and video \ngeneration, composing music, and data augmentation.  \n \n6. Do generative AI models have any limitations?  \nThe collection of best prompt engineering interview questions and answers also tests your \nknowledge of the limitations of generative AI. One of the most prominent challenges of \ngenerative AI points to the concerns of bias involved in training the models. A nother \nprominent challenge for generative AI models points to the lack of interpretation of the \nmodels. As a result, it is difficult to determine why the generative AI models make certain \ndecisions or make specific predictions.  \n \nIdentify the full potential of generative AI in business use cases and become an expert in \ngenerative AI technologies with the Generative AI Skill Path.  \n \n7. What are Large Language Models?", "start_char_idx": 0, "end_char_idx": 2117, "text_template": "{metadata_str}\n\n{content}", "metadata_template": "{key}: {value}", "metadata_seperator": "\n", "class_name": "TextNode"}, "__type__": "1"}, "8bdcbd8b-9f18-442b-937b-78b74bb6d75d": {"__data__": {"id_": "8bdcbd8b-9f18-442b-937b-78b74bb6d75d", "embedding": null, "metadata": {"page_label": "3", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "excluded_embed_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "excluded_llm_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "relationships": {"1": {"node_id": "97243292-26a7-4252-a1d9-a31c8d736a0a", "node_type": "4", "metadata": {"page_label": "3", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "a8e2a74b3680bc507b87250a74636748bc6964beb58734894f27d67a169a5805", "class_name": "RelatedNodeInfo"}, "2": {"node_id": "4cc26e60-60f4-4241-ad95-e3f41b7001a0", "node_type": "1", "metadata": {"page_label": "2", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "f661a3a2643b7f2cbf27461f2ca5247e8511f65e1c3f8e6cc12795891c4eab6f", "class_name": "RelatedNodeInfo"}, "3": {"node_id": "d652640a-9d6a-4127-a3cf-41ec1fc167d1", "node_type": "1", "metadata": {}, "hash": "29ce9714a69e87e5ea05daa44e99fe394655f6f8ad4984741db31141f8a81171", "class_name": "RelatedNodeInfo"}}, "text": "Large Language Models, or LLMs, are an AI model that leverages natural language \nprocessing or NLP techniques for generating text or completing tasks on the basis of input \ndata. Some of the common use cases of LLMs include language translation, content \ncreation, and predictive typing. Prompt engineering has emerged as a crucial tool in \ndeveloping LLMs while ensuring their ethical and responsible usage.  \n \n8. What are NLP models?  \nYou can also come across responses to \u201cWhat are the questions for a prompt interview?\u201d \nwith references to NLP models. Natural Language Processing or NLP models are computer \nalgorithms designed for understanding and processing human language. NLP models \nutilize machine learning techniques for analyzing text, extracting relevant information, and \nmaking predictions or decisions. NLP models can serve a broad range of tasks, including \nchatbot interactions, language translation, and sentiment analysis.  \n \n9. What are the challenges associated with NLP models?  \nNatural language processing models have been associated with multiple advantages. \nHowever, you should also keep an eye on the challenges with NLP models. Some of the \nmost prominent challenges for NLP models include lack of context, bias in training data, \nand ambiguity in natural language. On top of it, NLP models can struggle to understand \nslang or informal language.  \n \n10. How can you address the challenges with NLP models?  \nThe most popular prompt engineering interview questions also test your knowledge of best \npractices for resolving challenges with NLP models. It is important to note that NLP models \nare still in the nascent stages. As the technology grows further, you can e xpect promising \nimprovements in NLP models for managing the complexities in natural language. In \naddition, techniques such as algorithmic improvements and data cleaning alongside \nethical considerations for developing NLP models can also help in resolving t he challenges \nwith NLP models.  \n \nMaster the concepts of ChatGPT to boost your skills, improve your productivity, and \nuncover new opportunities with our ChatGPT Fundamental Course.", "start_char_idx": 0, "end_char_idx": 2145, "text_template": "{metadata_str}\n\n{content}", "metadata_template": "{key}: {value}", "metadata_seperator": "\n", "class_name": "TextNode"}, "__type__": "1"}, "d652640a-9d6a-4127-a3cf-41ec1fc167d1": {"__data__": {"id_": "d652640a-9d6a-4127-a3cf-41ec1fc167d1", "embedding": null, "metadata": {"page_label": "4", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "excluded_embed_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "excluded_llm_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "relationships": {"1": {"node_id": "f5ad4bde-f1f5-4a74-9163-d8ae44fd4d45", "node_type": "4", "metadata": {"page_label": "4", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "abf214e3433b72b593468337caceef9393c88152c695d5aaafef4e635580aee7", "class_name": "RelatedNodeInfo"}, "2": {"node_id": "8bdcbd8b-9f18-442b-937b-78b74bb6d75d", "node_type": "1", "metadata": {"page_label": "3", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "f868878c02ad80a53f3e93202204670bbc97ec4787f3b853b9119208126198d4", "class_name": "RelatedNodeInfo"}, "3": {"node_id": "ca8dcba8-b59a-4467-b221-5bbd50c35738", "node_type": "1", "metadata": {}, "hash": "4a92f59c22e37fb1d59db90a2247dd9fc64a0fab6587d24d8a59ea00ab6f07fa", "class_name": "RelatedNodeInfo"}}, "text": "Advanced Interview Questions for Prompt Engineers  \nAfter testing your knowledge of prompt engineering basics, interviewers would ask prompt \nengineering interview questions to test your expertise in practical uses of prompt \nengineering. Here are some of the advanced interview questions for aspiring prompt \nengineers.  \n \n11. What is zero -shot prompting?  \nZero-shot prompting is a prompting technique that helps in training LLMs to perform tasks \nwithout any prior examples. It involves training the model on a broad set of data alongside a \ncomprehensive understanding of the language structures. Zero -shot prompt ing has proved \nuseful for different tasks such as machine translation, text classification, and sentiment \nanalysis.  \n \n12. What is few -shot prompting?  \nLarge language models have gained popularity for offering impressive zero -shot learning \ncapabilities. On the contrary, they present limitations in addressing complex tasks. \nTherefore, you can come across top prompt engineering interview questions focused o n a \nfew-shot prompting. It is a prompting technique that helps machines in answering \nquestions or performing tasks with minimal training data. Few -shot prompting involves the \nuse of niche examples or prompts that enable in -context learning.  \n \n13. What are the best practices for writing prompts?  \nThe best practices for writing prompts revolve around ensuring clarity and conciseness in \nthe prompts. You should maintain clarity regarding the desired task and specify the context \nfor the LLM. In addition, it is also important to use simple language and avoid jargon, \nalongside providing examples for the desired behavior of the model.  \n \nLearn about the fundamentals of Bard AI, its evolution, common tools, and business use \ncases with our Google Bard AI Course.", "start_char_idx": 2, "end_char_idx": 1815, "text_template": "{metadata_str}\n\n{content}", "metadata_template": "{key}: {value}", "metadata_seperator": "\n", "class_name": "TextNode"}, "__type__": "1"}, "ca8dcba8-b59a-4467-b221-5bbd50c35738": {"__data__": {"id_": "ca8dcba8-b59a-4467-b221-5bbd50c35738", "embedding": null, "metadata": {"page_label": "5", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "excluded_embed_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "excluded_llm_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "relationships": {"1": {"node_id": "9a945af6-8146-47af-ac0d-4fc065e27816", "node_type": "4", "metadata": {"page_label": "5", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "4ba867f17e94f11b2d03fcfc41394d7b3e930768ce709e5a1c7e2bc30df23a0e", "class_name": "RelatedNodeInfo"}, "2": {"node_id": "d652640a-9d6a-4127-a3cf-41ec1fc167d1", "node_type": "1", "metadata": {"page_label": "4", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "ce69e853f7bab089774cc1372402ba7a640ac50b2a4a7d35f67aaef63122db33", "class_name": "RelatedNodeInfo"}, "3": {"node_id": "def27a04-a433-409b-99bf-da39ec37ed89", "node_type": "1", "metadata": {}, "hash": "e2dea05f0fda210f6868495ed1ba73278d2ab3317ae47034481fefd0b54c0543", "class_name": "RelatedNodeInfo"}}, "text": "14. What is the role of temperature in LLM models?  \nThe best prompt engineering interview questions and answers in the advanced stages \nwould focus on concepts like temperature in LLMs. Temperature is the parameter in LLMs \nthat helps in controlling the randomness of outputs by the model. Higher temperatures \ncould lead to more creative or random outputs, while lower temperature leads to more \ndeterministic responses.  \n \n15. How can you address the problems of ambiguity in prompts?  \nPrompt engineers can choose two different methods for dealing with ambiguity in prompts. \nThe first method involves providing more context to the prompts. If you want the LLM to \nwrite a story about love, then you should provide examples of stories about lov e. In \naddition, you should also implement some constraints, such as the length of the story. The \nsecond method for dealing with ambiguity in prompts involves the use of multiple prompts.  \n \n16. What are the best practices for avoiding bias in prompts?  \nThe collection of most popular prompt engineering interview questions also draws \nattention to the methods for avoiding bias in prompts. You can avoid bias in prompts by \nrefraining from using culturally biased or gender -specific language. Prompt engineers m ust \naccount for diverse backgrounds when crafting prompts and should review prompts to \ncheck for unintentional biases. In addition, prompt engineers can avoid bias by specializing \nin inclusive language alongside seeking feedback from peers to identify pote ntial biases.  \n \nWant to understand the importance of ethics in AI, ethical frameworks, principles, and \nchallenges? Enroll now in the Ethics Of Artificial Intelligence (AI) Course  \n \n17. How would you create a prompt for complex technical concepts?  \nCandidates can also expect prompt engineering interview questions that evaluate their \napproach to complex use cases in prompt engineering. You can start by breaking down the \nproblem into key components and use analogies to explain the problem. In the next step, \nyou have to develop scenario -based prompts for simulating the problem and obtain \nfeedback from peers. It is also important to ask questions to users before deploying the \nsolution.", "start_char_idx": 0, "end_char_idx": 2228, "text_template": "{metadata_str}\n\n{content}", "metadata_template": "{key}: {value}", "metadata_seperator": "\n", "class_name": "TextNode"}, "__type__": "1"}, "def27a04-a433-409b-99bf-da39ec37ed89": {"__data__": {"id_": "def27a04-a433-409b-99bf-da39ec37ed89", "embedding": null, "metadata": {"page_label": "6", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "excluded_embed_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "excluded_llm_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "relationships": {"1": {"node_id": "aff8a911-f638-43e8-8a2d-7bf26968d302", "node_type": "4", "metadata": {"page_label": "6", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "71ebe2168320369483c5d8aee5fced1b47b9bf1e5b8aa2d8d733c808f0e3f7fa", "class_name": "RelatedNodeInfo"}, "2": {"node_id": "ca8dcba8-b59a-4467-b221-5bbd50c35738", "node_type": "1", "metadata": {"page_label": "5", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "fa3bce6e98867156be0783fdd5618d1c67a531850299945ce0c8b8de249f7585", "class_name": "RelatedNodeInfo"}, "3": {"node_id": "f8ae948b-bf9e-4238-8276-be19ac1f11c1", "node_type": "1", "metadata": {}, "hash": "9cfc9c508a3853555bca3f66fe49c4265b1bf9aaade259b056e7ce097dbab9d4", "class_name": "RelatedNodeInfo"}}, "text": "18. How can you manage unexpected responses from LLMs?  \nYou can manage unexpected responses from LLMs by iterating on the prompt. First of all, it \nis important to review the prompt to ensure clarity. In the next step, you have to modify the \nprompt structure and words according to your requirements. Furthermore,  you should also \ninclude additional requirements or constraints for guiding the output of the model.  \n \n19. Can you use prompt engineering to answer open -ended questions?  \nYes, you can use prompt engineering for answering open -ended questions. For example, \nprompt engineering can instruct LLMs to provide answers to hypothetical situations or offer \nsummaries for factual topics. You can tailor prompt engineering for open -ended questions \nby maintaining conciseness and clarity in the prompt. In addition, you should also refrain \nfrom using technical terms or jargon.  \n \n20. Which industry can benefit the most from prompt engineering?  \nPrompt engineering is a crucial requirement for industries that plan on using generative AI. \nYou can respond to such top prompt engineering interview questions by pointing out the \nuse cases of generative AI. Prompt engineering could serve as a valuable too l for different \nindustries, including finance, entertainment, healthcare, and manufacturing.  \n \nExcited to learn the fundamentals of AI applications in business? Enroll now in the AI For \nBusiness Course  \n \nConclusion  \nThe review of the most popular prompt engineering interview questions shows that \ncandidates preparing for prompt engineering jobs have a tough challenge. You need \ncomprehensive professional training for prompt engineering to understand the \nfundamentals and  best practices for using prompts.  \n \nPrompt engineering could revolutionize the AI landscape by invoking personalized \nresponses from AI models. You can also become a prompt engineer by learning the", "start_char_idx": 2, "end_char_idx": 1908, "text_template": "{metadata_str}\n\n{content}", "metadata_template": "{key}: {value}", "metadata_seperator": "\n", "class_name": "TextNode"}, "__type__": "1"}, "f8ae948b-bf9e-4238-8276-be19ac1f11c1": {"__data__": {"id_": "f8ae948b-bf9e-4238-8276-be19ac1f11c1", "embedding": null, "metadata": {"page_label": "7", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "excluded_embed_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "excluded_llm_metadata_keys": ["file_name", "file_type", "file_size", "creation_date", "last_modified_date", "last_accessed_date"], "relationships": {"1": {"node_id": "c07fea6a-c654-4c13-a196-44703dc8abeb", "node_type": "4", "metadata": {"page_label": "7", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "f015161d11ed4cc64ee8506322b0b17c3cd5eb3aba940f5d712473974ef711cd", "class_name": "RelatedNodeInfo"}, "2": {"node_id": "def27a04-a433-409b-99bf-da39ec37ed89", "node_type": "1", "metadata": {"page_label": "6", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}, "hash": "05fca0b39ec7b25e65eb9f5d80547212f5cfc88213659ab35ba1fef028008f06", "class_name": "RelatedNodeInfo"}}, "text": "important interview questions and preparing for the questions with impactful answers. \nExplore the collection of best learning resources on the internet to learn more about \nprompt engineering right now.", "start_char_idx": 0, "end_char_idx": 203, "text_template": "{metadata_str}\n\n{content}", "metadata_template": "{key}: {value}", "metadata_seperator": "\n", "class_name": "TextNode"}, "__type__": "1"}}, "docstore/ref_doc_info": {"e246e433-f5b9-4071-8c3d-b7a5f090fb63": {"node_ids": ["b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f"], "metadata": {"page_label": "1", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}}, "95f21103-8f74-42b0-8162-fc194fc5e72e": {"node_ids": ["4cc26e60-60f4-4241-ad95-e3f41b7001a0"], "metadata": {"page_label": "2", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}}, "97243292-26a7-4252-a1d9-a31c8d736a0a": {"node_ids": ["8bdcbd8b-9f18-442b-937b-78b74bb6d75d"], "metadata": {"page_label": "3", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}}, "f5ad4bde-f1f5-4a74-9163-d8ae44fd4d45": {"node_ids": ["d652640a-9d6a-4127-a3cf-41ec1fc167d1"], "metadata": {"page_label": "4", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}}, "9a945af6-8146-47af-ac0d-4fc065e27816": {"node_ids": ["ca8dcba8-b59a-4467-b221-5bbd50c35738"], "metadata": {"page_label": "5", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}}, "aff8a911-f638-43e8-8a2d-7bf26968d302": {"node_ids": ["def27a04-a433-409b-99bf-da39ec37ed89"], "metadata": {"page_label": "6", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}}, "c07fea6a-c654-4c13-a196-44703dc8abeb": {"node_ids": ["f8ae948b-bf9e-4238-8276-be19ac1f11c1"], "metadata": {"page_label": "7", "file_name": "promptengineering.pdf", "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf", "file_type": "application/pdf", "file_size": 45430, "creation_date": "2024-04-27", "last_modified_date": "2024-04-27"}}}}
+{
+  "docstore/metadata": {
+    "e246e433-f5b9-4071-8c3d-b7a5f090fb63": {
+      "doc_hash": "ea630d5dc149114d5b80f5b4b74e0b24e3c4f3fc647fa1ed9f4bb07d0cffdf39"
+    },
+    "95f21103-8f74-42b0-8162-fc194fc5e72e": {
+      "doc_hash": "79889fad87e94cede0b99b8e314b5880bf2c9a6c4931977f2776dea4b51b5339"
+    },
+    "97243292-26a7-4252-a1d9-a31c8d736a0a": {
+      "doc_hash": "a8e2a74b3680bc507b87250a74636748bc6964beb58734894f27d67a169a5805"
+    },
+    "f5ad4bde-f1f5-4a74-9163-d8ae44fd4d45": {
+      "doc_hash": "abf214e3433b72b593468337caceef9393c88152c695d5aaafef4e635580aee7"
+    },
+    "9a945af6-8146-47af-ac0d-4fc065e27816": {
+      "doc_hash": "4ba867f17e94f11b2d03fcfc41394d7b3e930768ce709e5a1c7e2bc30df23a0e"
+    },
+    "aff8a911-f638-43e8-8a2d-7bf26968d302": {
+      "doc_hash": "71ebe2168320369483c5d8aee5fced1b47b9bf1e5b8aa2d8d733c808f0e3f7fa"
+    },
+    "c07fea6a-c654-4c13-a196-44703dc8abeb": {
+      "doc_hash": "f015161d11ed4cc64ee8506322b0b17c3cd5eb3aba940f5d712473974ef711cd"
+    },
+    "b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f": {
+      "doc_hash": "4cf576bcd4cdd056931ad473c7fb68725223eddbf1642b2b529259d98a822943",
+      "ref_doc_id": "e246e433-f5b9-4071-8c3d-b7a5f090fb63"
+    },
+    "4cc26e60-60f4-4241-ad95-e3f41b7001a0": {
+      "doc_hash": "f661a3a2643b7f2cbf27461f2ca5247e8511f65e1c3f8e6cc12795891c4eab6f",
+      "ref_doc_id": "95f21103-8f74-42b0-8162-fc194fc5e72e"
+    },
+    "8bdcbd8b-9f18-442b-937b-78b74bb6d75d": {
+      "doc_hash": "f868878c02ad80a53f3e93202204670bbc97ec4787f3b853b9119208126198d4",
+      "ref_doc_id": "97243292-26a7-4252-a1d9-a31c8d736a0a"
+    },
+    "d652640a-9d6a-4127-a3cf-41ec1fc167d1": {
+      "doc_hash": "ce69e853f7bab089774cc1372402ba7a640ac50b2a4a7d35f67aaef63122db33",
+      "ref_doc_id": "f5ad4bde-f1f5-4a74-9163-d8ae44fd4d45"
+    },
+    "ca8dcba8-b59a-4467-b221-5bbd50c35738": {
+      "doc_hash": "fa3bce6e98867156be0783fdd5618d1c67a531850299945ce0c8b8de249f7585",
+      "ref_doc_id": "9a945af6-8146-47af-ac0d-4fc065e27816"
+    },
+    "def27a04-a433-409b-99bf-da39ec37ed89": {
+      "doc_hash": "05fca0b39ec7b25e65eb9f5d80547212f5cfc88213659ab35ba1fef028008f06",
+      "ref_doc_id": "aff8a911-f638-43e8-8a2d-7bf26968d302"
+    },
+    "f8ae948b-bf9e-4238-8276-be19ac1f11c1": {
+      "doc_hash": "3dfcbd000fd1785932c603933f144ec2d5aa3baf98d72745675e83845e4a613c",
+      "ref_doc_id": "c07fea6a-c654-4c13-a196-44703dc8abeb"
+    }
+  },
+  "docstore/data": {
+    "b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f": {
+      "__data__": {
+        "id_": "b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f",
+        "embedding": null,
+        "metadata": {
+          "page_label": "1",
+          "file_name": "promptengineering.pdf",
+          "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+          "file_type": "application/pdf",
+          "file_size": 45430,
+          "creation_date": "2024-04-27",
+          "last_modified_date": "2024-04-27"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "e246e433-f5b9-4071-8c3d-b7a5f090fb63",
+            "node_type": "4",
+            "metadata": {
+              "page_label": "1",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "ea630d5dc149114d5b80f5b4b74e0b24e3c4f3fc647fa1ed9f4bb07d0cffdf39",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "4cc26e60-60f4-4241-ad95-e3f41b7001a0",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "336e0d578a3e60f78c038f10a85806123a9f13a03d347828fe5dcd2ef2e67765",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "text": "Basic Interview Questions for Prompt Engineers  \nThe first set of most popular prompt engineering interview questions focuses on the \nquestions about prompt engineering fundamentals. The following questions would help the \ninterviewers check your knowledge of the basic concepts of prompt engineering.  \n \n1. What is prompt engineering?  \nPrompt engineering refers to the process of creating the right prompts that could instruct \ngenerative AI tools to generate the right responses. It focuses on creating the right prompts \nor instructions that can help the AI tool understand the user query. Eff ective, prompt \nengineering helps the Large Language Model in providing the most relevant answer to your \nqueries. You can also define prompt engineering as the process of designing and refining \nprompts to improve the performance of AI models in different t asks, such as text \ngeneration, translation, and image generation.  \n \n2. What are the responsibilities of a prompt engineer?  \nThe list of entries among responses to \u201cWhat are the questions for a prompt interview?\u201d \nwould also focus on the responsibilities of the prompt engineer. Prompt engineers serve a \ncrucial role in development and optimization of AI -generated text prompts. In addition, \nprompt engineers ensure that the prompts offer relevance and accuracy for different use \ncases. On top of it, prompt engineers must also fine -tune the prompts to ensure the best \nresults. The role of prompt engineers also focuses on improving user experience with AI \ntools by creating simple and contextually relevant prompts.  \n \nDive into the world of prompt engineering and become a master of generative AI \napplications with the Prompt Engineer Career Path.  \n \n3. What are the important skills required for prompt engineers?  \nThe outline of top prompt engineering interview questions also focuses on the skills \nrequired for prompt engineers. Prompt engineers should have problem -solving, analytical, \nand communication skills. You don\u2019t need a technical background to become a prompt  \nengineer.",
+        "start_char_idx": 0,
+        "end_char_idx": 2061,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "4cc26e60-60f4-4241-ad95-e3f41b7001a0": {
+      "__data__": {
+        "id_": "4cc26e60-60f4-4241-ad95-e3f41b7001a0",
+        "embedding": null,
+        "metadata": {
+          "page_label": "2",
+          "file_name": "promptengineering.pdf",
+          "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+          "file_type": "application/pdf",
+          "file_size": 45430,
+          "creation_date": "2024-04-27",
+          "last_modified_date": "2024-04-27"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "95f21103-8f74-42b0-8162-fc194fc5e72e",
+            "node_type": "4",
+            "metadata": {
+              "page_label": "2",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "79889fad87e94cede0b99b8e314b5880bf2c9a6c4931977f2776dea4b51b5339",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f",
+            "node_type": "1",
+            "metadata": {
+              "page_label": "1",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "4cf576bcd4cdd056931ad473c7fb68725223eddbf1642b2b529259d98a822943",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "8bdcbd8b-9f18-442b-937b-78b74bb6d75d",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "5089f1dcde142b562f88b655edbde1ea4698e65253db6a7ab35548bc99b6266c",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "text": "Communication skills help in working in collaboration with team members and clients. \nAnalytical skills can help in using data analysis for informed decision -making to facilitate \nsystem enhancements. In addition, the problem -solving skills of a prompt engin eer help \nthem in addressing problems due to system glitches.  \n \n4. What are Generative AI models?  \nAnother important addition to basic prompt engineering interview questions would focus \non definition of generative AI models. Generative AI models are AI algorithms with the \nability to generate new data based on their training data. With a specific dataset , generative \nAI models could learn and develop new samples with similar traits as the original data. \nGenerative AI models utilize complex mathematical algorithms alongside deep learning \ntechniques for learning the underlying features and patterns in traini ng data.  \n \n5. What are the common tasks you can achieve with generative AI models?  \nThe primary advantage of generative AI models is the ability to understand the patterns in \ndata. In addition, generative AI models have the capability for understanding the \ncomplexity and variations in real -world data. Therefore, the generative AI models c ould \nwork as effective tools in use cases such as text and speech synthesis, image and video \ngeneration, composing music, and data augmentation.  \n \n6. Do generative AI models have any limitations?  \nThe collection of best prompt engineering interview questions and answers also tests your \nknowledge of the limitations of generative AI. One of the most prominent challenges of \ngenerative AI points to the concerns of bias involved in training the models. A nother \nprominent challenge for generative AI models points to the lack of interpretation of the \nmodels. As a result, it is difficult to determine why the generative AI models make certain \ndecisions or make specific predictions.  \n \nIdentify the full potential of generative AI in business use cases and become an expert in \ngenerative AI technologies with the Generative AI Skill Path.  \n \n7. What are Large Language Models?",
+        "start_char_idx": 0,
+        "end_char_idx": 2117,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "8bdcbd8b-9f18-442b-937b-78b74bb6d75d": {
+      "__data__": {
+        "id_": "8bdcbd8b-9f18-442b-937b-78b74bb6d75d",
+        "embedding": null,
+        "metadata": {
+          "page_label": "3",
+          "file_name": "promptengineering.pdf",
+          "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+          "file_type": "application/pdf",
+          "file_size": 45430,
+          "creation_date": "2024-04-27",
+          "last_modified_date": "2024-04-27"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "97243292-26a7-4252-a1d9-a31c8d736a0a",
+            "node_type": "4",
+            "metadata": {
+              "page_label": "3",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "a8e2a74b3680bc507b87250a74636748bc6964beb58734894f27d67a169a5805",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "4cc26e60-60f4-4241-ad95-e3f41b7001a0",
+            "node_type": "1",
+            "metadata": {
+              "page_label": "2",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "f661a3a2643b7f2cbf27461f2ca5247e8511f65e1c3f8e6cc12795891c4eab6f",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "d652640a-9d6a-4127-a3cf-41ec1fc167d1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "29ce9714a69e87e5ea05daa44e99fe394655f6f8ad4984741db31141f8a81171",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "text": "Large Language Models, or LLMs, are an AI model that leverages natural language \nprocessing or NLP techniques for generating text or completing tasks on the basis of input \ndata. Some of the common use cases of LLMs include language translation, content \ncreation, and predictive typing. Prompt engineering has emerged as a crucial tool in \ndeveloping LLMs while ensuring their ethical and responsible usage.  \n \n8. What are NLP models?  \nYou can also come across responses to \u201cWhat are the questions for a prompt interview?\u201d \nwith references to NLP models. Natural Language Processing or NLP models are computer \nalgorithms designed for understanding and processing human language. NLP models \nutilize machine learning techniques for analyzing text, extracting relevant information, and \nmaking predictions or decisions. NLP models can serve a broad range of tasks, including \nchatbot interactions, language translation, and sentiment analysis.  \n \n9. What are the challenges associated with NLP models?  \nNatural language processing models have been associated with multiple advantages. \nHowever, you should also keep an eye on the challenges with NLP models. Some of the \nmost prominent challenges for NLP models include lack of context, bias in training data, \nand ambiguity in natural language. On top of it, NLP models can struggle to understand \nslang or informal language.  \n \n10. How can you address the challenges with NLP models?  \nThe most popular prompt engineering interview questions also test your knowledge of best \npractices for resolving challenges with NLP models. It is important to note that NLP models \nare still in the nascent stages. As the technology grows further, you can e xpect promising \nimprovements in NLP models for managing the complexities in natural language. In \naddition, techniques such as algorithmic improvements and data cleaning alongside \nethical considerations for developing NLP models can also help in resolving t he challenges \nwith NLP models.  \n \nMaster the concepts of ChatGPT to boost your skills, improve your productivity, and \nuncover new opportunities with our ChatGPT Fundamental Course.",
+        "start_char_idx": 0,
+        "end_char_idx": 2145,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "d652640a-9d6a-4127-a3cf-41ec1fc167d1": {
+      "__data__": {
+        "id_": "d652640a-9d6a-4127-a3cf-41ec1fc167d1",
+        "embedding": null,
+        "metadata": {
+          "page_label": "4",
+          "file_name": "promptengineering.pdf",
+          "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+          "file_type": "application/pdf",
+          "file_size": 45430,
+          "creation_date": "2024-04-27",
+          "last_modified_date": "2024-04-27"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "f5ad4bde-f1f5-4a74-9163-d8ae44fd4d45",
+            "node_type": "4",
+            "metadata": {
+              "page_label": "4",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "abf214e3433b72b593468337caceef9393c88152c695d5aaafef4e635580aee7",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "8bdcbd8b-9f18-442b-937b-78b74bb6d75d",
+            "node_type": "1",
+            "metadata": {
+              "page_label": "3",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "f868878c02ad80a53f3e93202204670bbc97ec4787f3b853b9119208126198d4",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "ca8dcba8-b59a-4467-b221-5bbd50c35738",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "4a92f59c22e37fb1d59db90a2247dd9fc64a0fab6587d24d8a59ea00ab6f07fa",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "text": "Advanced Interview Questions for Prompt Engineers  \nAfter testing your knowledge of prompt engineering basics, interviewers would ask prompt \nengineering interview questions to test your expertise in practical uses of prompt \nengineering. Here are some of the advanced interview questions for aspiring prompt \nengineers.  \n \n11. What is zero -shot prompting?  \nZero-shot prompting is a prompting technique that helps in training LLMs to perform tasks \nwithout any prior examples. It involves training the model on a broad set of data alongside a \ncomprehensive understanding of the language structures. Zero -shot prompt ing has proved \nuseful for different tasks such as machine translation, text classification, and sentiment \nanalysis.  \n \n12. What is few -shot prompting?  \nLarge language models have gained popularity for offering impressive zero -shot learning \ncapabilities. On the contrary, they present limitations in addressing complex tasks. \nTherefore, you can come across top prompt engineering interview questions focused o n a \nfew-shot prompting. It is a prompting technique that helps machines in answering \nquestions or performing tasks with minimal training data. Few -shot prompting involves the \nuse of niche examples or prompts that enable in -context learning.  \n \n13. What are the best practices for writing prompts?  \nThe best practices for writing prompts revolve around ensuring clarity and conciseness in \nthe prompts. You should maintain clarity regarding the desired task and specify the context \nfor the LLM. In addition, it is also important to use simple language and avoid jargon, \nalongside providing examples for the desired behavior of the model.  \n \nLearn about the fundamentals of Bard AI, its evolution, common tools, and business use \ncases with our Google Bard AI Course.",
+        "start_char_idx": 2,
+        "end_char_idx": 1815,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "ca8dcba8-b59a-4467-b221-5bbd50c35738": {
+      "__data__": {
+        "id_": "ca8dcba8-b59a-4467-b221-5bbd50c35738",
+        "embedding": null,
+        "metadata": {
+          "page_label": "5",
+          "file_name": "promptengineering.pdf",
+          "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+          "file_type": "application/pdf",
+          "file_size": 45430,
+          "creation_date": "2024-04-27",
+          "last_modified_date": "2024-04-27"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "9a945af6-8146-47af-ac0d-4fc065e27816",
+            "node_type": "4",
+            "metadata": {
+              "page_label": "5",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "4ba867f17e94f11b2d03fcfc41394d7b3e930768ce709e5a1c7e2bc30df23a0e",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "d652640a-9d6a-4127-a3cf-41ec1fc167d1",
+            "node_type": "1",
+            "metadata": {
+              "page_label": "4",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "ce69e853f7bab089774cc1372402ba7a640ac50b2a4a7d35f67aaef63122db33",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "def27a04-a433-409b-99bf-da39ec37ed89",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "e2dea05f0fda210f6868495ed1ba73278d2ab3317ae47034481fefd0b54c0543",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "text": "14. What is the role of temperature in LLM models?  \nThe best prompt engineering interview questions and answers in the advanced stages \nwould focus on concepts like temperature in LLMs. Temperature is the parameter in LLMs \nthat helps in controlling the randomness of outputs by the model. Higher temperatures \ncould lead to more creative or random outputs, while lower temperature leads to more \ndeterministic responses.  \n \n15. How can you address the problems of ambiguity in prompts?  \nPrompt engineers can choose two different methods for dealing with ambiguity in prompts. \nThe first method involves providing more context to the prompts. If you want the LLM to \nwrite a story about love, then you should provide examples of stories about lov e. In \naddition, you should also implement some constraints, such as the length of the story. The \nsecond method for dealing with ambiguity in prompts involves the use of multiple prompts.  \n \n16. What are the best practices for avoiding bias in prompts?  \nThe collection of most popular prompt engineering interview questions also draws \nattention to the methods for avoiding bias in prompts. You can avoid bias in prompts by \nrefraining from using culturally biased or gender -specific language. Prompt engineers m ust \naccount for diverse backgrounds when crafting prompts and should review prompts to \ncheck for unintentional biases. In addition, prompt engineers can avoid bias by specializing \nin inclusive language alongside seeking feedback from peers to identify pote ntial biases.  \n \nWant to understand the importance of ethics in AI, ethical frameworks, principles, and \nchallenges? Enroll now in the Ethics Of Artificial Intelligence (AI) Course  \n \n17. How would you create a prompt for complex technical concepts?  \nCandidates can also expect prompt engineering interview questions that evaluate their \napproach to complex use cases in prompt engineering. You can start by breaking down the \nproblem into key components and use analogies to explain the problem. In the next step, \nyou have to develop scenario -based prompts for simulating the problem and obtain \nfeedback from peers. It is also important to ask questions to users before deploying the \nsolution.",
+        "start_char_idx": 0,
+        "end_char_idx": 2228,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "def27a04-a433-409b-99bf-da39ec37ed89": {
+      "__data__": {
+        "id_": "def27a04-a433-409b-99bf-da39ec37ed89",
+        "embedding": null,
+        "metadata": {
+          "page_label": "6",
+          "file_name": "promptengineering.pdf",
+          "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+          "file_type": "application/pdf",
+          "file_size": 45430,
+          "creation_date": "2024-04-27",
+          "last_modified_date": "2024-04-27"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "aff8a911-f638-43e8-8a2d-7bf26968d302",
+            "node_type": "4",
+            "metadata": {
+              "page_label": "6",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "71ebe2168320369483c5d8aee5fced1b47b9bf1e5b8aa2d8d733c808f0e3f7fa",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "ca8dcba8-b59a-4467-b221-5bbd50c35738",
+            "node_type": "1",
+            "metadata": {
+              "page_label": "5",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "fa3bce6e98867156be0783fdd5618d1c67a531850299945ce0c8b8de249f7585",
+            "class_name": "RelatedNodeInfo"
+          },
+          "3": {
+            "node_id": "f8ae948b-bf9e-4238-8276-be19ac1f11c1",
+            "node_type": "1",
+            "metadata": {},
+            "hash": "9cfc9c508a3853555bca3f66fe49c4265b1bf9aaade259b056e7ce097dbab9d4",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "text": "18. How can you manage unexpected responses from LLMs?  \nYou can manage unexpected responses from LLMs by iterating on the prompt. First of all, it \nis important to review the prompt to ensure clarity. In the next step, you have to modify the \nprompt structure and words according to your requirements. Furthermore,  you should also \ninclude additional requirements or constraints for guiding the output of the model.  \n \n19. Can you use prompt engineering to answer open -ended questions?  \nYes, you can use prompt engineering for answering open -ended questions. For example, \nprompt engineering can instruct LLMs to provide answers to hypothetical situations or offer \nsummaries for factual topics. You can tailor prompt engineering for open -ended questions \nby maintaining conciseness and clarity in the prompt. In addition, you should also refrain \nfrom using technical terms or jargon.  \n \n20. Which industry can benefit the most from prompt engineering?  \nPrompt engineering is a crucial requirement for industries that plan on using generative AI. \nYou can respond to such top prompt engineering interview questions by pointing out the \nuse cases of generative AI. Prompt engineering could serve as a valuable too l for different \nindustries, including finance, entertainment, healthcare, and manufacturing.  \n \nExcited to learn the fundamentals of AI applications in business? Enroll now in the AI For \nBusiness Course  \n \nConclusion  \nThe review of the most popular prompt engineering interview questions shows that \ncandidates preparing for prompt engineering jobs have a tough challenge. You need \ncomprehensive professional training for prompt engineering to understand the \nfundamentals and  best practices for using prompts.  \n \nPrompt engineering could revolutionize the AI landscape by invoking personalized \nresponses from AI models. You can also become a prompt engineer by learning the",
+        "start_char_idx": 2,
+        "end_char_idx": 1908,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    },
+    "f8ae948b-bf9e-4238-8276-be19ac1f11c1": {
+      "__data__": {
+        "id_": "f8ae948b-bf9e-4238-8276-be19ac1f11c1",
+        "embedding": null,
+        "metadata": {
+          "page_label": "7",
+          "file_name": "promptengineering.pdf",
+          "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+          "file_type": "application/pdf",
+          "file_size": 45430,
+          "creation_date": "2024-04-27",
+          "last_modified_date": "2024-04-27"
+        },
+        "excluded_embed_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+          "file_name",
+          "file_type",
+          "file_size",
+          "creation_date",
+          "last_modified_date",
+          "last_accessed_date"
+        ],
+        "relationships": {
+          "1": {
+            "node_id": "c07fea6a-c654-4c13-a196-44703dc8abeb",
+            "node_type": "4",
+            "metadata": {
+              "page_label": "7",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "f015161d11ed4cc64ee8506322b0b17c3cd5eb3aba940f5d712473974ef711cd",
+            "class_name": "RelatedNodeInfo"
+          },
+          "2": {
+            "node_id": "def27a04-a433-409b-99bf-da39ec37ed89",
+            "node_type": "1",
+            "metadata": {
+              "page_label": "6",
+              "file_name": "promptengineering.pdf",
+              "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+              "file_type": "application/pdf",
+              "file_size": 45430,
+              "creation_date": "2024-04-27",
+              "last_modified_date": "2024-04-27"
+            },
+            "hash": "05fca0b39ec7b25e65eb9f5d80547212f5cfc88213659ab35ba1fef028008f06",
+            "class_name": "RelatedNodeInfo"
+          }
+        },
+        "text": "important interview questions and preparing for the questions with impactful answers. \nExplore the collection of best learning resources on the internet to learn more about \nprompt engineering right now.",
+        "start_char_idx": 0,
+        "end_char_idx": 203,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+      },
+      "__type__": "1"
+    }
+  },
+  "docstore/ref_doc_info": {
+    "e246e433-f5b9-4071-8c3d-b7a5f090fb63": {
+      "node_ids": ["b7d8c5ff-a8ab-4e86-bc8a-d2e86ca9d15f"],
+      "metadata": {
+        "page_label": "1",
+        "file_name": "promptengineering.pdf",
+        "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+        "file_type": "application/pdf",
+        "file_size": 45430,
+        "creation_date": "2024-04-27",
+        "last_modified_date": "2024-04-27"
+      }
+    },
+    "95f21103-8f74-42b0-8162-fc194fc5e72e": {
+      "node_ids": ["4cc26e60-60f4-4241-ad95-e3f41b7001a0"],
+      "metadata": {
+        "page_label": "2",
+        "file_name": "promptengineering.pdf",
+        "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+        "file_type": "application/pdf",
+        "file_size": 45430,
+        "creation_date": "2024-04-27",
+        "last_modified_date": "2024-04-27"
+      }
+    },
+    "97243292-26a7-4252-a1d9-a31c8d736a0a": {
+      "node_ids": ["8bdcbd8b-9f18-442b-937b-78b74bb6d75d"],
+      "metadata": {
+        "page_label": "3",
+        "file_name": "promptengineering.pdf",
+        "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+        "file_type": "application/pdf",
+        "file_size": 45430,
+        "creation_date": "2024-04-27",
+        "last_modified_date": "2024-04-27"
+      }
+    },
+    "f5ad4bde-f1f5-4a74-9163-d8ae44fd4d45": {
+      "node_ids": ["d652640a-9d6a-4127-a3cf-41ec1fc167d1"],
+      "metadata": {
+        "page_label": "4",
+        "file_name": "promptengineering.pdf",
+        "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+        "file_type": "application/pdf",
+        "file_size": 45430,
+        "creation_date": "2024-04-27",
+        "last_modified_date": "2024-04-27"
+      }
+    },
+    "9a945af6-8146-47af-ac0d-4fc065e27816": {
+      "node_ids": ["ca8dcba8-b59a-4467-b221-5bbd50c35738"],
+      "metadata": {
+        "page_label": "5",
+        "file_name": "promptengineering.pdf",
+        "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+        "file_type": "application/pdf",
+        "file_size": 45430,
+        "creation_date": "2024-04-27",
+        "last_modified_date": "2024-04-27"
+      }
+    },
+    "aff8a911-f638-43e8-8a2d-7bf26968d302": {
+      "node_ids": ["def27a04-a433-409b-99bf-da39ec37ed89"],
+      "metadata": {
+        "page_label": "6",
+        "file_name": "promptengineering.pdf",
+        "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+        "file_type": "application/pdf",
+        "file_size": 45430,
+        "creation_date": "2024-04-27",
+        "last_modified_date": "2024-04-27"
+      }
+    },
+    "c07fea6a-c654-4c13-a196-44703dc8abeb": {
+      "node_ids": ["f8ae948b-bf9e-4238-8276-be19ac1f11c1"],
+      "metadata": {
+        "page_label": "7",
+        "file_name": "promptengineering.pdf",
+        "file_path": "E:\\_NYP_Project\\LearningBuddy\\ChainlitLB\\data\\promptengineering.pdf",
+        "file_type": "application/pdf",
+        "file_size": 45430,
+        "creation_date": "2024-04-27",
+        "last_modified_date": "2024-04-27"
+      }
+    }
+  }
+}
