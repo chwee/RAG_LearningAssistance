@@ -1,0 +1,25 @@
+# Python stuff
+venv*/
+*.pytest_cache
+__pycache__/
+
+*.py[cod]
+*$py.class
+
+*.ruff_cache
+
+# Chainlit
+.chainlit/
+.files/
+
+# Build
+dist/
+*.egg-info/
+
+.vscode/
+
+# Node
+node_modules/
+
+# Env
+.env*

@@ -1,0 +1,19 @@
+{
+  "name": "learning_assistant",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev:py",
+    "dev:py": "python -m chainlit run server/src/main.py",
+    "lint": "python -m ruff check && prettier --cache --check .",
+    "lint:fix": "python -m ruff format && prettier --cache --write .",
+    "test": "python -m pytest -xsv",
+    "install": "npm run install:py && npm run install:dev",
+    "install:py": "python -m pip install -r requirements.txt",
+    "install:dev": "python -m pip install -r requirements-dev.txt"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "prettier": "^3.2.5"
+  }
+}
