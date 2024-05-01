@@ -19,7 +19,7 @@ npm run lint
 ```
 
 - Docstrings are to follow reST (reStructuredText Docstring Format)
-   as specified in [PEP 287](https://peps.python.org/pep-0287/)
+  as specified in [PEP 287](https://peps.python.org/pep-0287/)
 - Private attributes are to be prefixed with an underscore
 - Use of [typing](https://docs.python.org/3/library/typing.html) type hints
 
