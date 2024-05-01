@@ -12,15 +12,20 @@ please follow it in all your interactions with the project.
 <!-- prettier-ignore-start -->
 <!--toc:start-->
 
-1. [Pull Request Process](#pull-request-process)
-2. [Issue Report Process](#issue-report-process)
-3. [Commit Message Guidelines](#commit-message-guidelines)
-4. [Code Quality](#code-quality)
+1. [About the project](#about-the-project)
+2. [Pull Request Process](#pull-request-process)
+3. [Issue Report Process](#issue-report-process)
+4. [Commit Message Guidelines](#commit-message-guidelines)
+5. [Code Quality](#code-quality)
     - [Testing](#testing)
     - [Linting](#linting)
 
 <!--toc:end-->
 <!-- prettier-ignore-end -->
+
+## About the project
+
+We use [Chainlit](https://github.com/Chainlit/cookbook)
 
 ## Pull Request Process
 
