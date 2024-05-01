@@ -31,7 +31,6 @@ exclude = [
 
 indent-style = "space"
 line-ending = "lf"
-quote-style = "single"
 
 
 [lint]
